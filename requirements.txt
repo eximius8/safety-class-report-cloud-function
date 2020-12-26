@@ -1,0 +1,4 @@
+pylatex
+google-cloud-storage
+
+#functions-framework
